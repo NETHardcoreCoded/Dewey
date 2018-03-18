@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dewey.Core", "Dewey.Core\Dewey.Core.csproj", "{FA72B564-7D0C-4F81-900F-C04E502BA14A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dewey", "Dewey\Dewey.csproj", "{43FDE921-1DE0-454D-9DA0-05D4857D1330}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FA72B564-7D0C-4F81-900F-C04E502BA14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA72B564-7D0C-4F81-900F-C04E502BA14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA72B564-7D0C-4F81-900F-C04E502BA14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FDE921-1DE0-454D-9DA0-05D4857D1330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FDE921-1DE0-454D-9DA0-05D4857D1330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FDE921-1DE0-454D-9DA0-05D4857D1330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FDE921-1DE0-454D-9DA0-05D4857D1330}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
